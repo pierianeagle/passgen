@@ -1,9 +1,0 @@
-.DS_Store
-
-.vscode/
-*.code-workspace
-
-.tool-versions
-
-.direnv/
-.envrc
